@@ -1,4 +1,4 @@
-# WEB Gerenciador de tarefas
+# WEB Gerenciador de Tarefas
 
 Projeto WEB de um gerenciador de tarefas desenvolvido usando as tecnologias:
 
