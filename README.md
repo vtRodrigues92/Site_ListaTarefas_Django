@@ -1,6 +1,6 @@
 # WEB Gerenciador de tarefas
 
-Desenvolvimento WEB de um gerenciador de tarefas desenvolvido usando as tecnologias:
+Projeto WEB de um gerenciador de tarefas desenvolvido usando as tecnologias:
 
 - HTML;
 - CSS;
